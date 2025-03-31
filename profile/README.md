@@ -2,7 +2,6 @@
 @luxxedd = Overall Team Manager, Designer and Coding
 
 @GLMidnight = Coding
-
 @Liam = Coding
 <!--
 
