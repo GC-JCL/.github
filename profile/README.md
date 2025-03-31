@@ -1,6 +1,8 @@
 ## Roles & Responsibilities of each team member 
 @luxxedd = Overall Team Manager, Designer and Coding
+
 @GLMidnight = Coding
+
 @Liam = Coding
 <!--
 
